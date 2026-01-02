@@ -1,4 +1,4 @@
-# Riddle Registry
+# Flag in Flame
 
 ## Challenge Description
 ![Challenge Description](images/Flag_in_flame_description.png)
