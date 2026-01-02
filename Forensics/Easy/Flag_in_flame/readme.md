@@ -13,11 +13,11 @@ The file seems corrupted as when i opened it, it was filled with gibberish texts
 
 I went to the hint and found out that i had to decode the file text which was in base64 encoding, and get the image.
 
-So I fired up my Terminal, 
+So I fired up my Terminal, decoded the file from its base64 format and saved it as Output12.jpg 
 
 ![Website](images/Flag_in_flame_convert.png)
 
-After i upload the file in that website, I found out that the authors name is is in a Base64 format.
+After I opend the image, I saw a string of numbers and texts written just below the image.
 
 ![Website](images/Flag_in_flame_image.png)
 
