@@ -5,10 +5,10 @@
 
 ## Solution
 
-The challenge gaves us a file called "Confidential.pdf".
+The challenge gaves us a file called "logs.txt".
 ![FIleContent](images/Flag_in_flame_file.png)
 
-The file content are nothing but a random story anf gibberish text in latin.
+The file seems corrupted as when i opened it, it was filled with gibberish texts.
 
 I tried to copy and pasted the hidden text and found texts like : "The author had done a great and good job" and "No Flag here"
 
