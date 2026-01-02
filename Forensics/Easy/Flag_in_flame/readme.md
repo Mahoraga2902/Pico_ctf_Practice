@@ -6,15 +6,14 @@
 ## Solution
 
 The challenge gaves us a file called "logs.txt".
+
 ![FIleContent](images/Flag_in_flame_file.png)
 
 The file seems corrupted as when i opened it, it was filled with gibberish texts.
 
-I tried to copy and pasted the hidden text and found texts like : "The author had done a great and good job" and "No Flag here"
+I went to the hint and found out that i had to decode the file text which was in base64 encoding, and get the image.
 
-I then checked the question again and saw that it says something about Metadata.
-
-So I searched in google for a website and i came across one called Metadata.com. This is a website for uploading any files and to find out the file contents like author, checksum, etc.
+So I fired up my Terminal, 
 
 ![Website](images/Flag_in_flame_convert.png)
 
